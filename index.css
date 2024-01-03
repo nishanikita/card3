@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color:rgb(209, 214, 214);
+    width:25%;
+    margin:auto;
+    border:1px solid white;
+    text-align: center;
+    padding:20px;
+    margin-top: 10%;
+}
+img{
+    border:6px solid white;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px ;
+
+
+}
+/* fonts-google.com*/
+#para{
+     font-family: 'Dancing Script', cursive; ;
+     font-size: 16px;
+     color:rgb(72, 74, 77);  
+       
+}
+
+#content{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:blueviolet
+}
+
+h3{
+    text-transform: capitalize;
+    padding:2%
+    
+}
+
+
